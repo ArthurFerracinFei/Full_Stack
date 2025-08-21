@@ -1,6 +1,23 @@
 p{
-    color: greenyellow
+    color: greenyellow;
 }
-a{
-    color: blueviolet;
+
+#d1{
+    background-color: blueviolet;
+}
+
+.blue{
+    background-color: rgb(140, 127, 255);
+}
+
+div p{
+    font-size: 18pt;
+}
+
+.hover:hover{
+    background-color: brown;
+}
+
+a:visited{
+    color: darkorange;
 }
