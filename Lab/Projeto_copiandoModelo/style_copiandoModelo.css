@@ -1,0 +1,77 @@
+p{
+    color: blueviolet;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#cJava{
+
+    background-color: darkkhaki;
+    height: 60px;
+    border: solid 3px blue;
+    padding: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    color: green;
+}
+
+img{
+    position: relative;
+    left: 550px;
+    padding: 30px;  
+}
+
+iframe{
+    position: relative;
+    left: 400px;
+}
+
+h2{
+    text-align: center;
+}
+
+#d1{
+    
+    border: dotted 3px red;
+
+    position: relative;
+    left: 700px;
+
+    width: 500px;
+
+
+    background-color: lightblue;
+
+}
+
+.red{
+    color: red;
+}
+
+#d2{
+    
+    width: 500px;
+    position: relative;
+    left: 700px;
+    background-color: yellow;
+}
+
+#htCss{
+
+    background-color: darkkhaki;
+    height: 60px;
+    border: solid 3px black;
+    padding: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    color: black;
+}
+
+#d3{
+    padding: 20px;
+    background-color: lightblue;
+}
