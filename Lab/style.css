@@ -1,0 +1,29 @@
+h1{
+    color: #FF502F;
+}
+
+a:hover{
+    background-color: #348498;
+}
+
+p{
+    color: #5BD1D7;
+    font-size: 30pt;
+}
+body{
+    background-color: #004D61;
+}
+
+#ListN1{
+    color: #348498;
+    font-size: 20pt;
+}
+
+a:visited{
+    color: #FF502F;
+}
+
+td{
+    color: #5BD1D7;
+    font-size: 30pt; 
+}
