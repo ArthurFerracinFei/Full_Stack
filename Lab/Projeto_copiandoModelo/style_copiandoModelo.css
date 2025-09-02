@@ -1,21 +1,44 @@
 p{
     color: blueviolet;
+    font-family: sans-serif;
+    font-size: 20pt;
 }
 
 body{
     background-color: lightgray;
 }
 
-#cJava{
 
-    background-color: darkkhaki;
-    height: 60px;
+
+#cJavaBox {
+    background-color: bisque;
     border: solid 3px blue;
     padding: 50px;
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
+}
+
+#cJava {
     color: green;
+    margin: 0 0 20px 0;
+}
+
+#cmais{
+    position: absolute;
+    top: 0px;     
+    left: 0px;  
+    width: 150px;
+    height: 150px;
+
+}
+
+#java{
+    position: absolute;
+    top: 0px;     
+    left: 1700px;  
+    width: 150px;
+    height: 150px;
 }
 
 img{
@@ -60,8 +83,9 @@ h2{
 }
 
 #htCss{
-
-    background-color: darkkhaki;
+    position: relative;
+    font-size: 15pt;
+    background-color: bisque;
     height: 60px;
     border: solid 3px black;
     padding: 50px;
@@ -69,9 +93,39 @@ h2{
     margin-right: 10px;
     text-align: center;
     color: black;
+    
 }
+
+#html {
+    position: absolute;
+    bottom: -25px;     
+    left: 1700px;  
+    width: 150px;
+    height: 150px;
+}
+
+#css{
+    position: absolute;
+    bottom: -25px;     
+    left: 0px;  
+    width: 150px;
+    height: 150px;
+
+}
+
 
 #d3{
     padding: 20px;
-    background-color: lightblue;
+
+    background-color: lightskyblue;
+}
+
+#d3 a{
+    
+    display: inline-block;
+
+    margin-right: 100px;
+
+    position: relative;
+    left: 600px;
 }
