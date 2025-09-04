@@ -6,7 +6,6 @@
     flex-direction: row;
     align-content: center;
     justify-content: center;
-    
 }
 
 .item{
@@ -24,4 +23,8 @@
 #d3{
     flex-basis: 100px;
     align-self: flex-end;
+}
+
+h2{
+    color: red;
 }

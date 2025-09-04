@@ -1,0 +1,68 @@
+
+#assine{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding: 20px;
+    font-size: 20pt;
+
+}
+
+#a1{
+    background-color: red;
+}
+
+#logo{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    border-style: solid;
+    border-color: lightgray;
+    padding: 20px;
+}
+
+#Principal{
+    display: flex;
+    justify-content: space-around;
+}
+
+#carro{
+    width: 620px;
+    height: 400px;
+    margin-left: 70px;
+    background-color: red;
+}
+
+#carroText{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#mulheres{
+    
+}
+
+
+
+#carro1{
+    margin-left: 20px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+.white{
+    color: white;
+}
+.gray{
+    color: gray;
+}
+.lgray{
+    color: lightgray;
+}
