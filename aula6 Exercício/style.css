@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(48, 90, 206);
+}
+#GuessDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#GuessButton{
+    width: 400px;
+}
+
+#GuessNumber {
+  width: 400px; /* Aumenta a largura para 250 pixels */
+  height: 100px; /* Aumenta a altura para 40 pixels */
+}
+
+p{
+    text-align: center;
+}
+
+#div_resultado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#Resultado{
+    text-align: center;
+    display: inline;
+    font-size: 50px;
+}
